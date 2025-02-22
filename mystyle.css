@@ -57,3 +57,19 @@ nav a:hover
 {
     text-decoration:underline ;
 }
+
+
+table
+{
+    border: solid 2px black;
+    border-collapse: collapse;
+    color: white;
+    background-color: darkgray;
+}
+tr, td, th
+{
+    border: solid 2px black;
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+}
